@@ -85,7 +85,7 @@
             //                                     ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛   ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛
 
             bindings = <
-         &mt ESCAPE Q    &kp W           &kp E                 &kp R             &kp G        &kp J    &kp U        &kp U        &kp O       &mt BACKSPACE P
+         &mt ESCAPE Q    &kp W           &kp E                 &kp R             &kp T        &kp J    &kp U        &kp U        &kp O       &mt BACKSPACE P
          &kp A           &kp S           &kp D                 &kp F             &kp D        &kp H    &mt RSHFT J  &mt RCTRL E  &mt RALT I  &mt RGUI SEMICOLON
 &kp TAB  &mt LEFT_GUI Z  &mt LEFT_ALT X  &kp C                 &mt LEFT_SHIFT V  &kp B        &kp N    &kp M        &kp COMMA    &kp DOT     &kp FSLH            &kp SQT
                                          &kp LS(LEFT_CONTROL)  &lt NAV TAB       &kp SPACE    &kp RET  &lt SYM ESC  &kp BSPC
